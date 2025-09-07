@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Cesar Barrera, MPH  
-![2021-11-05_111918](https://github.com/user-attachments/assets/a838e769-e19c-456e-9811-a8b7e95e3da8)
-
 🔐 **PhD Student in Cybersecurity | President, CGU Cybersecurity Club | GIS Security Researcher**  
 
 I pioneer the integration of **geospatial intelligence and cybersecurity** to protect location-based critical infrastructure in our increasingly connected world.  
